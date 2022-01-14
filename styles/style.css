@@ -4,13 +4,14 @@ header {
 body{
     font-family:Georgia, 'Times New Roman', Times, serif
 }
-#main {
-    background-image: url('https://thumbs.gfycat.com/QuestionablePeriodicGharial-size_restricted.gif');
-    background-size: cover;
-    height: 80vh;
-    padding: 0;
-    margin: 0;
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
+
 h1 {
     margin-top: 1.2 em;
     text-align: center;
